@@ -1,0 +1,3 @@
+[submodule "joscanoav"]
+	path = joscanoav
+	url = https://github.com/joscanoav/joscanoav
